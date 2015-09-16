@@ -1,18 +1,3 @@
-#+TITLE: 太上助國救民總真祕要 / HFL
+#+TITLE: Data branch for _data
 
-#+DATE: 2015-08-29 02:49:14.744792
-* 版本
- |       HFL|【正統道藏・涵芬樓版】|
- |      ZTDZ|【正統道藏・三家本】|
-目次
- - [[file:KR5g0036_000.txt][太上助國救民總真祕要 0]]
- - [[file:KR5g0036_001.txt][太上助國救民總真祕要 1]]
- - [[file:KR5g0036_002.txt][太上助國救民總真祕要 2]]
- - [[file:KR5g0036_003.txt][太上助國救民總真祕要 3]]
- - [[file:KR5g0036_004.txt][太上助國救民總真祕要 4]]
- - [[file:KR5g0036_005.txt][太上助國救民總真祕要 5]]
- - [[file:KR5g0036_006.txt][太上助國救民總真祕要 6]]
- - [[file:KR5g0036_007.txt][太上助國救民總真祕要 7]]
- - [[file:KR5g0036_008.txt][太上助國救民總真祕要 8]]
- - [[file:KR5g0036_009.txt][太上助國救民總真祕要 9]]
- - [[file:KR5g0036_010.txt][太上助國救民總真祕要 10]]
+This branch contains data files that are used by the system.  The folder =imglist= has a list of digital facsimile pages for each file of the text.  This information is used to display text and image side-by-side.
